@@ -21,3 +21,9 @@ After settings dataset folder as I mentioned before, it is an example how to pas
 ``` VisualOdom vo("/home/oguzk/VisualOdom/dataset/", "08", 4000); ```
 
 In this case, 08th sequence will be played and trajectory will be appeared till 4000 frames. 
+
+The 8th sequence trajectory : 
+
+![](https://user-images.githubusercontent.com/60695165/198877187-7cb58160-ce94-4ca4-b3cf-f1a3d6e2baa3.png)
+
+
